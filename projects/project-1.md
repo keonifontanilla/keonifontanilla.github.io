@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: images/Logo.jpg
 title: Uhire
 date: 2019-05-07
 labels:
